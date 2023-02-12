@@ -1,0 +1,9 @@
+# ignore build files
+build
+
+
+# ignore install files
+install
+
+# keep all gitkeeps
+!*/.gitkeep
